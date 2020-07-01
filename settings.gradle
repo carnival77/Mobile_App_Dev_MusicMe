@@ -1,4 +1,0 @@
-rootProject.name = 'MusicMe'
-include ':app'
-include ':spotify-app-remote'
-include ':auth-lib'
